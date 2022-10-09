@@ -16,3 +16,16 @@ img{
   font-family: 'Courier New', Courier, monospace;
   font-size: 20px;
 }
+
+.button{
+  background-color: black;
+  color: white;
+}
+
+.button:hover{
+  background-color: darkgrey;
+}
+
+.button:active{
+  background-color: darkslategray;
+}
