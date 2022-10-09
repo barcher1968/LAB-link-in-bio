@@ -1,0 +1,25 @@
+body{
+  background-color: gray;
+}
+
+/* .headshot{
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+} */
+
+img{
+  display: block;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.nameandnumber{
+  text-align: center;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
